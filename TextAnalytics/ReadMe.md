@@ -3,4 +3,5 @@
 3. Charge your laptop.
 4. Close out all memory-intensive tasks.
 5. Buy more RAM.
-6. Run homew3.ipynb.
+6. Run ner.ipynb.
+7. Run text_ml.ipynb.
